@@ -8,7 +8,7 @@ Solve the problem in 1 stream ()*
 
 ## How to run program form CMD: 
 ```
-cd test/src/main/java/
+cd src/main/java/
 javac CheckTopDepartment.java
 java CheckTopDepartment
 ```
